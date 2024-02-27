@@ -152,6 +152,9 @@ switch (dayNumber) {
     case 7:
         console.log('sunday');
         break;
+    default:
+        console.log('not a day');
+        break;
 }
 //     - Користувач вводить або має два числа.
 //         Потрібно знайти та вивести максимальне число з тих двох .
